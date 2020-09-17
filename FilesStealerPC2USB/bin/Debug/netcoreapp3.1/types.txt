@@ -1,0 +1,16 @@
+[Basic]
+types=System.String[]
+files=System.String[]
+folders=System.String[]
+search_OS_drive=
+
+[Advanced]
+exceptDrive=System.String[]
+message=
+countNumberShow=
+log=
+
+
+Note:
+you can seperate items with	                 : ,
+Search_OS_drive,CountnumShow, and Log should be	 : yes\no

@@ -1,0 +1,16 @@
+[Basic]
+types=
+files=
+folders=
+search_OS_drive=
+
+[Advanced]
+exceptDrive=
+message=
+countNumberShow=
+log=
+
+
+Note:
+you can seperate items with	                 : ,
+Search_OS_drive,CountnumShow, and Log should be	 : yes\no
