@@ -9,32 +9,24 @@ namespace FilesStealerPC2USB
 {
     class Alaki
     {
-        [DllImport("kernel32.dll")]
-        static extern IntPtr GetConsoleWindow();
+        //        [DllImport("kernel32.dll")]
+        //      static extern IntPtr GetConsoleWindow();
 
 
-        [DllImport("user32.dll")]
-        static extern bool ShowWindow(IntPtr hWnd, int nCmdShow);
+        //        [DllImport("user32.dll")]
+        //static extern bool ShowWindow(IntPtr hWnd, int nCmdShow);
 
-        const int SW_HIDE = 0;
-        const int SW_SHOW = 5;
+        //const int SW_HIDE = 0;
+        //const int SW_SHOW = 5;
 
-
-        public void start()
+        public void Start()
         {
-            var handle = GetConsoleWindow();
-            ShowWindow(handle, SW_HIDE);
+            string[] str = { "nice","ok"};
 
-            TimeSpan interval = new TimeSpan(0, 0, 2);
-            Thread.Sleep(interval);
-
-            ShowWindow(handle, SW_SHOW);
-
-
-
-            string path = Path.GetPathRoot(Environment.SystemDirectory);
-            Console.WriteLine(path);
-
+            string sth = string.Join(" ",str);
+            Console.WriteLine(string.Join(" ", sth));
         }
+
     }
+
 }

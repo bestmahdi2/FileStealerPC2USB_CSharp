@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MY Projects\\C#\\FileStealerPC2USB\\FilesStealerPC2USB\\FilesStealerPC2USB.csproj": {}
+    "D:\\MY Projects\\C#\\FileStealerPC2USB\\FilesStealerPC2USB\\FileStealerPC2USB.csproj": {}
   },
   "projects": {
-    "D:\\MY Projects\\C#\\FileStealerPC2USB\\FilesStealerPC2USB\\FilesStealerPC2USB.csproj": {
+    "D:\\MY Projects\\C#\\FileStealerPC2USB\\FilesStealerPC2USB\\FileStealerPC2USB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MY Projects\\C#\\FileStealerPC2USB\\FilesStealerPC2USB\\FilesStealerPC2USB.csproj",
+        "projectUniqueName": "D:\\MY Projects\\C#\\FileStealerPC2USB\\FilesStealerPC2USB\\FileStealerPC2USB.csproj",
         "projectName": "FileStealerPC2USB",
-        "projectPath": "D:\\MY Projects\\C#\\FileStealerPC2USB\\FilesStealerPC2USB\\FilesStealerPC2USB.csproj",
+        "projectPath": "D:\\MY Projects\\C#\\FileStealerPC2USB\\FilesStealerPC2USB\\FileStealerPC2USB.csproj",
         "packagesPath": "C:\\Users\\Master\\.nuget\\packages\\",
         "outputPath": "D:\\MY Projects\\C#\\FileStealerPC2USB\\FilesStealerPC2USB\\obj\\",
         "projectStyle": "PackageReference",

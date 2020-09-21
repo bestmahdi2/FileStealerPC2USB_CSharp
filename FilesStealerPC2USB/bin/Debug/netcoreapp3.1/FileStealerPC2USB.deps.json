@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "FilesStealerPC2USB/1.0.0": {
+      "FileStealerPC2USB/1.0.0": {
         "runtime": {
-          "FilesStealerPC2USB.dll": {}
+          "FileStealerPC2USB.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "FilesStealerPC2USB/1.0.0": {
+    "FileStealerPC2USB/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

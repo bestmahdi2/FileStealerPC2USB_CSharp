@@ -1,0 +1,15 @@
+D:\MY Projects\C#\FileStealerPC2USB\FilesStealerPC2USB\bin\Debug\netcoreapp3.1\FileStealerPC2USB.exe
+D:\MY Projects\C#\FileStealerPC2USB\FilesStealerPC2USB\bin\Debug\netcoreapp3.1\FileStealerPC2USB.deps.json
+D:\MY Projects\C#\FileStealerPC2USB\FilesStealerPC2USB\bin\Debug\netcoreapp3.1\FileStealerPC2USB.runtimeconfig.json
+D:\MY Projects\C#\FileStealerPC2USB\FilesStealerPC2USB\bin\Debug\netcoreapp3.1\FileStealerPC2USB.runtimeconfig.dev.json
+D:\MY Projects\C#\FileStealerPC2USB\FilesStealerPC2USB\bin\Debug\netcoreapp3.1\FileStealerPC2USB.dll
+D:\MY Projects\C#\FileStealerPC2USB\FilesStealerPC2USB\bin\Debug\netcoreapp3.1\FileStealerPC2USB.pdb
+D:\MY Projects\C#\FileStealerPC2USB\FilesStealerPC2USB\obj\Debug\netcoreapp3.1\FileStealerPC2USB.Properties.Resources.resources
+D:\MY Projects\C#\FileStealerPC2USB\FilesStealerPC2USB\obj\Debug\netcoreapp3.1\FileStealerPC2USB.csproj.GenerateResource.cache
+D:\MY Projects\C#\FileStealerPC2USB\FilesStealerPC2USB\obj\Debug\netcoreapp3.1\FileStealerPC2USB.AssemblyInfoInputs.cache
+D:\MY Projects\C#\FileStealerPC2USB\FilesStealerPC2USB\obj\Debug\netcoreapp3.1\FileStealerPC2USB.AssemblyInfo.cs
+D:\MY Projects\C#\FileStealerPC2USB\FilesStealerPC2USB\obj\Debug\netcoreapp3.1\FileStealerPC2USB.csproj.CoreCompileInputs.cache
+D:\MY Projects\C#\FileStealerPC2USB\FilesStealerPC2USB\obj\Debug\netcoreapp3.1\FileStealerPC2USB.dll
+D:\MY Projects\C#\FileStealerPC2USB\FilesStealerPC2USB\obj\Debug\netcoreapp3.1\FileStealerPC2USB.pdb
+D:\MY Projects\C#\FileStealerPC2USB\FilesStealerPC2USB\obj\Debug\netcoreapp3.1\FileStealerPC2USB.genruntimeconfig.cache
+D:\MY Projects\C#\FileStealerPC2USB\FilesStealerPC2USB\obj\Debug\netcoreapp3.1\FileStealerPC2USB.csprojAssemblyReference.cache

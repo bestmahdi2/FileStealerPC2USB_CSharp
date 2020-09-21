@@ -5,6 +5,8 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <ApplicationIcon>Resources\imac.ico</ApplicationIcon>
     <ApplicationManifest>app.manifest</ApplicationManifest>
+    <AssemblyName>FileStealerPC2USB</AssemblyName>
+    <RootNamespace>FileStealerPC2USB</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
